@@ -1,4 +1,4 @@
-# Forge
+# dbForge
 
 ## Team
 
@@ -15,7 +15,7 @@
 | Analytics | Casey Nguyen | `caseynguyen` | `c9d0e1f2-a3b4-5678-cdef-789012345678` | `U0C9D0E1F2A` |
 | Strategy & Ops | Drew Martinez | `drewmartinez` | `d0e1f2a3-b4c5-6789-defa-890123456789` | `U0D0E1F2A3B` |
 
-## Slack Channels
+## Teams Channels
 
 | Channel | ID | Visibility | Purpose |
 |---------|-----|------------|---------|
